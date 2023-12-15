@@ -1,0 +1,10 @@
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\bin\Debug\FinalSlotMachine.exe.config
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\bin\Debug\FinalSlotMachine.exe
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\bin\Debug\FinalSlotMachine.pdb
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\obj\Debug\FinalSlotMachine.csproj.AssemblyReference.cache
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\obj\Debug\FinalSlotMachine.finalSlotMachine.resources
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\obj\Debug\FinalSlotMachine.Properties.Resources.resources
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\obj\Debug\FinalSlotMachine.csproj.GenerateResource.cache
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\obj\Debug\FinalSlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\obj\Debug\FinalSlotMachine.exe
+C:\Users\schmi\Desktop\Lakers!\VisualC#\FinalSlotMachine\FinalSlotMachine\obj\Debug\FinalSlotMachine.pdb
